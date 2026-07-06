@@ -1,4 +1,4 @@
-ookVault
+BookVault
 
 BookVault is a console-based Java application designed to simulate a simple library management system. The project focuses on practicing object-oriented programming, separation of concerns, and basic application structure using services and entities.
 
